@@ -1,5 +1,5 @@
 # Blade Ball Script (with GUI) - Transform Your Gameplay in 2024  
-**[![Download Blade Ball Script](https://img.shields.io/badge/Download-Blade%20Ball%20Script-blueviolet)](https://dar.vin/update_lnk)**  
+
 
 Redefine your *Blade Ball* adventure with the **Blade Ball Script (with GUI)**, a versatile tool designed to unlock powerful gameplay enhancements. Whether you aim to dominate intense PvP battles or simplify routine tasks, this script delivers exceptional performance, intuitive controls, and a seamless experience.  
 ![bladeball](https://github.com/user-attachments/assets/ad586dda-2540-49b4-9053-f384146a0058)
